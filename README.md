@@ -2,4 +2,4 @@
 
 https://chandrakellwan.github.io/Responsive-Portfolio/
 
-![responsivescreen](https://user-images.githubusercontent.com/25890329/32692346-f11c995e-c6db-11e7-82cf-4a72baaa1b59.png)
+![responsivescreen](https://user-images.githubusercontent.com/25890329/32694166-8cbefa88-c6fe-11e7-9860-51f9d013dca0.png)
